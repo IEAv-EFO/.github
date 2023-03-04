@@ -1,3 +1,9 @@
+**Organização não oficial mantida por colaboradores.**
+
+Possui o objetivo de ajudar a organizar os códigos que são utilizados no dia a dia.
+
+---
+
 Membros da organização podem criar repositórios contendo códigos que estão desenvolvendo. 
 O código compartilhado com conteúdo não sensível pode ser exatamente o que a próxima pessoa precisa fazer.
 
